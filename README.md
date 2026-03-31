@@ -33,7 +33,7 @@ My career is marked by versatility: I am an **Occupational Health and Safety (OH
 ### 📈 Conecte-se comigo | Let's Connect:
 🌐 **Site:** [m7data.com](https://www.m7data.com) 
 🔗 **LinkedIn:** [linkedin.com/in/marcelo-p-nogueira](https://www.linkedin.com/in/marcelo-p-nogueira)  
-📧 **Email:** marcelloperdigao@gmail.com
+📧 **Email:** perdigao.marc@gmail.com
 
 ---
 *“Buscando oportunidades como Analista de BI / Dados para gerar valor real e otimizar processos.”*
